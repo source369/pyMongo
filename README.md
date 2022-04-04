@@ -12,4 +12,8 @@
    1) pip install pymongo
    2) pip install fastapi
    3) pip install uvicorn
-6) 
+6) _
+
+### How to run locally 
+uvicorn main:app --reload 
+
